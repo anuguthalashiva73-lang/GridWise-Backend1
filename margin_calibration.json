@@ -1,0 +1,38 @@
+{
+  "method": "95th percentile of positive validation residuals by predicted-demand band",
+  "quantile": 0.95,
+  "global_margin": 1.0387884594246133,
+  "bands": [
+    {
+      "lower": 0.1907640094079296,
+      "upper": 0.4048722709946917,
+      "margin_95": 0.6211067222972467,
+      "samples": 762
+    },
+    {
+      "lower": 0.4048722709946917,
+      "upper": 0.8009088878112641,
+      "margin_95": 0.9454288410539895,
+      "samples": 762
+    },
+    {
+      "lower": 0.8009088878112641,
+      "upper": 1.3771420233182072,
+      "margin_95": 1.172454497230452,
+      "samples": 762
+    },
+    {
+      "lower": 1.3771420233182072,
+      "upper": 1.6770163353492111,
+      "margin_95": 0.8723349153569776,
+      "samples": 762
+    },
+    {
+      "lower": 1.6770163353492111,
+      "upper": 3.979111794078918,
+      "margin_95": 1.2593318141019831,
+      "samples": 763
+    }
+  ],
+  "validation_samples": 3811
+}
